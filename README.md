@@ -17,3 +17,13 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 - 📖 Currently reading: Superintelligence by Nick Bostrom 
 - ⚡ Fun fact: I Beatbox!
 
+## Languages and Tools
+
+<img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/ruby.svg" alt="Ruby" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/rubyonrails.svg" alt="Ruby on Rails" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/c.svg" alt="C" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/flask.svg" alt="Flask" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" height="40px" />
+

@@ -38,7 +38,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 [![Spotify](https://novatorem.gaonuk.vercel.app/api/spotify)](https://open.spotify.com/user/rgaonagonzalez)
 
 
-<img align="left" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+<img align="left" src ="https://github-readme-stats.vercel.app/api?username=Juan379&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
+<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan379&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
 

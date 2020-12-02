@@ -37,6 +37,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 [![Spotify](https://novatorem.gaonuk.vercel.app/api/spotify)](https://open.spotify.com/user/rgaonagonzalez)
 
+## GitHub Stats 🚀
 
 <img align="left" src ="https://github-readme-stats.vercel.app/api?username=Juan379&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
 

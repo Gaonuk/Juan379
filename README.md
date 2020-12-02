@@ -1,6 +1,7 @@
 ### Hola, I'm Juan Jiménez! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/en). I'm really passionate about technology, coding, innovation and I hope to push the technological barrier of the world as we know it. You can find me on:
+<br>
 <a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
   <a href="https://t.me/n_rusetskii">

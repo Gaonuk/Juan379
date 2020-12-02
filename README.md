@@ -1,4 +1,4 @@
-### Hola, I'm Juan Jiménez! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+## Hola, I'm Juan Jiménez! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/en). I'm really passionate about technology, coding, innovation and I hope to push the technological barrier of the world! You can find me on:
 

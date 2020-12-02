@@ -27,7 +27,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/flask.svg" alt="Flask" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-
+<br>
 
 ### Now Playing 🎧
 

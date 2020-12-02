@@ -22,8 +22,6 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 - ⚡ Fun fact: I Beatbox!
 
-<br>
-
 ### Languages and Tools 
 
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />

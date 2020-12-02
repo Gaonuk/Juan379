@@ -11,7 +11,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 ### I am...
 
-- 🌱 Currently learning about 'Webscraping' and 'Javascript'
+- 🌱 Currently learning about `Webscraping` and `Javascript`
 - 💻 An Advanced Programming Teaching Assistant
 - 💥 Passionate about Fintech, Innovation and Space Exploration
 - 📖 Currently reading: Superintelligence by Nick Bostrom 

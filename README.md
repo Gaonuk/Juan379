@@ -33,4 +33,3 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 [![Spotify](https://novatorem.gaonuk.vercel.app/api/spotify)](https://open.spotify.com/user/rgaonagonzalez)
 
-

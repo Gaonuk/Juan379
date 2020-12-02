@@ -9,6 +9,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 </a>
 
 <br>
+<br>
 
 ### I am...
 

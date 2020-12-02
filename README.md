@@ -20,7 +20,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 - 📖 Currently reading: Superintelligence by Nick Bostrom 
 
-- ⚡ Fun fact: I Beatbox!
+- ⚡ Fun fact: I beatbox!
 
 ### Languages and Tools 
 

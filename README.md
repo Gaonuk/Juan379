@@ -43,6 +43,7 @@ Computer Science student at [Universidad Católica de Chile](https://www.uc.cl/e
 
 ## GitHub Stats 🚀
 
-<img align="left" src ="https://github-readme-stats.vercel.app/api?username=Juan379&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
-
+<a href="https://github.com/Juan379/Juan379">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Juan379&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juan379's GitHub Stats" />
+</a>
 
